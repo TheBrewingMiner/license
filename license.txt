@@ -25,6 +25,6 @@ Prohibited Uses:
 
     - In the case of datapacks, you may NOT include the project in "datapack packs."
 
-It is to be assumed by you, the user, that TheBrewingMiner, the author, reserves copyright over the project entirely. It is your responsibility to adhere to the
-license as the user and potentially as a content creator.
+It is to be assumed by you, the user, that TheBrewingMiner, the author, reserves copyright over the project entirely. It is your responsibility 
+to adhere to the license as the user and potentially as a content creator.
 It is to be assumed by you, the user, that TheBrewingMiner may authorize exemptions to the license at their sole discretion.

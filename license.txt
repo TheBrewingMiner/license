@@ -13,6 +13,7 @@ Permitted Uses:
 
     - You are permitted to create and distribute add-on projects or modifications which utilize this project, or in other words, require the original project 
       to function, as long as you provide credit for the original project and adhere to the above permitted uses.
+        - This includes making projects that bridge the gap of compatibility between this project and another.
 
     - In the case of modifications (also known as "mods"), you may include the project in modpacks.
 

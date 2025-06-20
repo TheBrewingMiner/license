@@ -1,5 +1,5 @@
 This license describes how you, the user, may use this project and the assets contained within this project.
-This license is subject to change by TheBrewingMiner at their discretion. This license was last altered on January 18, 2025.
+This license is subject to change by TheBrewingMiner at their discretion. This license was last altered on June 19, 2025.
 
 Permitted Uses:
     - You may use this project for any reason at your discretion only restricted by the fact you are prohibited from republishing the project 
